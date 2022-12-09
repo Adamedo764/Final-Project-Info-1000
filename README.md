@@ -1,4 +1,4 @@
-<h1 id="adam-lunn">Adam-Lunn-GitHub</h1>
+<h1 id="adam-lunn">Adam-Lunn</h1>
 <h3 id="__here-are-links-to-other-pages__"><strong>Here are links to other pages</strong></h3>
 <h4 id="about-me">About Me</h4>
 <p><a href="About-Me.md">Here is a link to About Me!</a></p>
