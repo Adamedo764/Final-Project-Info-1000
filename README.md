@@ -6,9 +6,5 @@
 <p><a href="FavoriteThings.md">Here is a link to a List of my favorite things!</a></p>
 <h4 id="logo">Logo</h4>
 <p><a href="Logo.md">Here is a link to a Logo I made!</a></p>
-<h4 id="requirements">Requirements</h4>
-<p><a href="Requirements.md">Here is a link to the project requirements!</a></p>
-<h4 id="images">Images</h4>
-<p><a href="Images.md">Here is a link to the Images!</a></p>
 <h4 id="html-fizzbuzz-code">HTML Fizzbuzz Code</h4>
 <p><a href="FizzBuzzHTML.md">Here is a link to the HTML Code!</a> </p>
