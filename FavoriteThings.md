@@ -1,4 +1,4 @@
-<p>#Here is some of my favorite things.</p>
+<p>Here is some of my favorite things.</p>
 <ol>
 <li>Video Games</li>
 <li>Hanging with Family and Friends</li>
